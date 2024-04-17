@@ -1,0 +1,370 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE transitSchedule SYSTEM "http://www.matsim.org/files/dtd/transitSchedule_v2.dtd">
+
+<transitSchedule>
+    <transitStops>
+        <stopFacility id="1" x="486493.7779925186" y="1289591.8924035009" name="1A - Win-Win Boulevard Bus Station" linkRefId="3932614660000r" isBlocking="true"/>
+        <stopFacility id="2" x="484898.5730670619" y="1288248.0304827776" name="1A-Borey Lamazon Plaza" linkRefId="11634418020005f" isBlocking="true"/>
+        <stopFacility id="3" x="485503.5373599284" y="1288320.72083396" name="1A-Kim Li Prek Phnov Over Fly" linkRefId="12477050490003f" isBlocking="true"/>
+        <stopFacility id="4" x="485812.89308343176" y="1287899.2841925658" name="1A-CP Cambodia Company" linkRefId="12477050490010f" isBlocking="true"/>
+        <stopFacility id="5" x="486074.32803582324" y="1287545.3234858345" name="1A-LSK Construction Material supply" linkRefId="12477050490019f" isBlocking="true"/>
+        <stopFacility id="6" x="486444.77537782834" y="1287205.6920060597" name="1A-Chea Sim Chomrouenroth High School" linkRefId="12477050490030f" isBlocking="true"/>
+        <stopFacility id="7" x="486703.0189743841" y="1287004.3325073954" name="1A-Beltie International School" linkRefId="12477050490036f" isBlocking="true"/>
+        <stopFacility id="8" x="487282.7142951066" y="1286545.2006413387" name="1A-PTT Gas Station" linkRefId="12477104930005r" isBlocking="true"/>
+        <stopFacility id="9" x="487579.1757795821" y="1286483.1580304727" name="1A-islam Church KM9" linkRefId="12477104890007f" isBlocking="true"/>
+        <stopFacility id="10" x="488795.498271475" y="1286080.1995364658" name="1A-Hun Sen Chrang Chameh Primary School" linkRefId="7565997660035r" isBlocking="true"/>
+        <stopFacility id="11" x="489309.91468337126" y="1285842.280697332" name="1A-Kilometer 7" linkRefId="7565997660019r" isBlocking="true"/>
+        <stopFacility id="12" x="489622.64160744706" y="1285493.862088921" name="1A-Rusey Keo District Office" linkRefId="7565997660009r" isBlocking="true"/>
+        <stopFacility id="13" x="489779.5314092519" y="1285254.9673001745" name="1A-Borey New Wold" linkRefId="6527972070003f" isBlocking="true"/>
+        <stopFacility id="14" x="490509.6446508036" y="1284496.188958416" name="1A-Samdach Ouv Health Center" linkRefId="6527972070018f" isBlocking="true"/>
+        <stopFacility id="15" x="490761.3033019756" y="1283981.9383226258" name="1A-TV stations CTN" linkRefId="6527972070028f" isBlocking="true"/>
+        <stopFacility id="16" x="490853.8921234471" y="1283741.9627846123" name="1A-Russey Keo High School" linkRefId="6527972070032f" isBlocking="true"/>
+        <stopFacility id="17" x="491081.49798085017" y="1282943.5441573195" name="1A-Intersection of Russey Keg Garden Line1A" linkRefId="11276464830002f" isBlocking="true"/>
+        <stopFacility id="18" x="491118.43907088926" y="1282510.079265353" name="1A-baby care shop" linkRefId="5593553030004f" isBlocking="true"/>
+        <stopFacility id="19" x="491108.5073259957" y="1282089.8969246158" name="1A-Modern 5" linkRefId="5593553030017f" isBlocking="true"/>
+        <stopFacility id="20" x="491087.6027172103" y="1281423.13559783" name="1A-Ponheakraek Primary school" linkRefId="5593553030031f" isBlocking="true"/>
+        <stopFacility id="21" x="491152.8833299394" y="1280960.9135741796" name="1A-Chaktomuk Health Center" linkRefId="9289676260004f" isBlocking="true"/>
+        <stopFacility id="22" x="490837.714439474" y="1280635.9144784668" name="1A-Kolab School (Chroy Changva Bridge Base)" linkRefId="6813069450003f" isBlocking="true"/>
+        <stopFacility id="23" x="490901.937431159" y="1280292.0076060493" name="1A-Calmet Hospital" linkRefId="6565600150029r" isBlocking="true"/>
+        <stopFacility id="24" x="490980.2967187416" y="1279815.4069889942" name="1A -Ministry of Information" linkRefId="6565600150012r" isBlocking="true"/>
+        <stopFacility id="25" x="491023.81714960956" y="1279503.5732804837" name="1A-National University of Managemet" linkRefId="6565600150005r" isBlocking="true"/>
+        <stopFacility id="26" x="491078.21150254365" y="1279087.796241626" name="1A-BKC Intersection" linkRefId="6688903620002f" isBlocking="true"/>
+        <stopFacility id="27" x="491116.3067908466" y="1278861.1069742243" name="1A-Central Market Monivong Blvd" linkRefId="6688903620006f" isBlocking="true"/>
+        <stopFacility id="28" x="491134.8128034279" y="1278759.3728798972" name="1A-white hotel traffic light" linkRefId="6688903620006f" isBlocking="true"/>
+        <stopFacility id="29" x="491199.0012535072" y="1278267.2968884753" name="1A-koh pagoda" linkRefId="6688903620014f" isBlocking="true"/>
+        <stopFacility id="30" x="491251.24718697625" y="1277949.9326300456" name="1A-monivong road 214" linkRefId="6688903620019f" isBlocking="true"/>
+        <stopFacility id="31" x="491330.6907905486" y="1277410.3057825437" name="1A- preah yukunthor high school" linkRefId="11600499790000f" isBlocking="true"/>
+        <stopFacility id="32" x="491375.31472948834" y="1277120.587710756" name="1A-monivong road 294" linkRefId="11600499790003f" isBlocking="true"/>
+        <stopFacility id="33" x="491455.8518543575" y="1276576.5382021372" name="1A-monivong road 360" linkRefId="11600499790009f" isBlocking="true"/>
+        <stopFacility id="34" x="491525.51165818516" y="1276119.8459963081" name="1A-monivong/mao tse tong" linkRefId="11600282870001f" isBlocking="true"/>
+        <stopFacility id="35" x="491599.5167208668" y="1275594.5966830703" name="1A-ministry of rural development" linkRefId="11600282870009f" isBlocking="true"/>
+        <stopFacility id="36" x="491625.6378448555" y="1275413.247378173" name="1A-ministry of social affairs" linkRefId="12409243470000f" isBlocking="true"/>
+        <stopFacility id="37" x="491656.12184002803" y="1275235.2141884922" name="1A-royal university of law and economics" linkRefId="11599919180005f" isBlocking="true"/>
+        <stopFacility id="38" x="491673.52197641943" y="1275060.5017705667" name="1A-Boeung trabek high school" linkRefId="12201798940010f" isBlocking="true"/>
+        <stopFacility id="39" x="492377.8248675778" y="1274603.6493206234" name="1A- Intersection of monivong Flyover" linkRefId="10900070200006f" isBlocking="true"/>
+        <stopFacility id="40" x="493000.50420908345" y="1274772.6826348307" name="1A-Chbar Ampov Market" linkRefId="6434510050001f" isBlocking="true"/>
+        <stopFacility id="41" x="493429.03771187796" y="1274738.3115084202" name="1A-Caltex Gas Station" linkRefId="8876163600009f" isBlocking="true"/>
+        <stopFacility id="42" x="494422.42204297206" y="1274724.849504386" name="1A-hun sen chbar Ampov high school" linkRefId="8876163600047f" isBlocking="true"/>
+        <stopFacility id="43" x="494994.9350176693" y="1274938.1612785019" name="1A-borey peng hout" linkRefId="8876163600047f" isBlocking="true"/>
+        <stopFacility id="44" x="495635.07048450585" y="1275325.075945398" name="1A-chorrey hospital" linkRefId="12380991930025f" isBlocking="true"/>
+        <stopFacility id="45" x="496339.501572042" y="1275522.9137796217" name="1A-Pannasastra international School Van Hong" linkRefId="4077481130019f" isBlocking="true"/>
+        <stopFacility id="46" x="496618.6329051729" y="1275402.356129679" name="1A-Entrance to Borey veal Sbov" linkRefId="12110783970007f" isBlocking="true"/>
+        <stopFacility id="47" x="496969.73041866475" y="1275246.4100968952" name="1A-Preh Puthsatrian Pagoda" linkRefId="12110783970014f" isBlocking="true"/>
+        <stopFacility id="48" x="497511.6492474394" y="1275013.05014221" name="1A-veal sbov pagoda" linkRefId="12110783970029f" isBlocking="true"/>
+
+    </transitStops>
+    <transitLine id="Line 1A">
+        <transitRoute id="1">
+            <description> Win-Win Boulevard Bus Station - Veal Sbov Pagoda.</description>
+            <transportMode>bus</transportMode>
+            <routeProfile>
+                <stop refId="1" arrivalOffset="00:00:00" />
+                <stop refId="2" arrivalOffset="00:02:00" departureOffset="00:04:00" />
+                <stop refId="3" arrivalOffset="00:04:00" departureOffset="00:06:00" />
+                <stop refId="4" arrivalOffset="00:06:00" departureOffset="00:08:00" />
+                <stop refId="5" arrivalOffset="00:08:00" departureOffset="00:10:00" />
+                <stop refId="6" arrivalOffset="00:10:00" departureOffset="00:12:00" />
+                <stop refId="7" arrivalOffset="00:12:00" departureOffset="00:14:00" />
+                <stop refId="8" arrivalOffset="00:14:00" departureOffset="00:16:00" />
+                <stop refId="9" arrivalOffset="00:16:00" departureOffset="00:18:00" />
+                <stop refId="10" arrivalOffset="00:18:00" departureOffset="00:20:00" />
+                <stop refId="11" arrivalOffset="00:20:00" departureOffset="00:22:00" />
+                <stop refId="12" arrivalOffset="00:22:00" departureOffset="00:24:00" />
+                <stop refId="13" arrivalOffset="00:24:00" departureOffset="00:26:00" />
+                <stop refId="14" arrivalOffset="00:26:00" departureOffset="00:28:00" />
+                <stop refId="15" arrivalOffset="00:28:00" departureOffset="00:30:00" />
+                <stop refId="16" arrivalOffset="00:30:00" departureOffset="00:32:00" />
+                <stop refId="17" arrivalOffset="00:32:00" departureOffset="00:34:00" />
+                <stop refId="18" arrivalOffset="00:34:00" departureOffset="00:36:00" />
+                <stop refId="19" arrivalOffset="00:36:00" departureOffset="00:38:00" />
+                <stop refId="20" arrivalOffset="00:38:00" departureOffset="00:40:00" />
+                <stop refId="21" arrivalOffset="00:40:00" departureOffset="00:42:00" />
+                <stop refId="22" arrivalOffset="00:42:00" departureOffset="00:44:00" />
+                <stop refId="23" arrivalOffset="00:44:00" departureOffset="00:46:00" />
+                <stop refId="24" arrivalOffset="00:46:00" departureOffset="00:48:00" />
+                <stop refId="25" arrivalOffset="00:48:00" departureOffset="00:50:00" />
+                <stop refId="26" arrivalOffset="00:50:00" departureOffset="00:52:00" />
+                <stop refId="27" arrivalOffset="00:52:00" departureOffset="00:54:00" />
+                <stop refId="28" arrivalOffset="00:54:00" departureOffset="00:56:00" />
+                <stop refId="29" arrivalOffset="00:56:00" departureOffset="00:58:00" />
+                <stop refId="30" arrivalOffset="00:58:00" departureOffset="01:00:00" />
+                <stop refId="31" arrivalOffset="01:00:00" departureOffset="01:02:00" />
+                <stop refId="32" arrivalOffset="01:02:00" departureOffset="01:04:00" />
+                <stop refId="33" arrivalOffset="01:04:00" departureOffset="01:06:00" />
+                <stop refId="34" arrivalOffset="01:06:00" departureOffset="01:08:00" />
+                <stop refId="35" arrivalOffset="01:08:00" departureOffset="01:10:00" />
+                <stop refId="36" arrivalOffset="01:10:00" departureOffset="01:12:00" />
+                <stop refId="37" arrivalOffset="01:12:00" departureOffset="01:14:00" />
+                <stop refId="38" arrivalOffset="01:14:00" departureOffset="01:16:00" />
+                <stop refId="39" arrivalOffset="01:16:00" departureOffset="01:18:00" />
+                <stop refId="40" arrivalOffset="01:18:00" departureOffset="01:20:00" />
+                <stop refId="41" arrivalOffset="01:20:00" departureOffset="01:22:00" />
+                <stop refId="42" arrivalOffset="01:22:00" departureOffset="01:24:00" />
+                <stop refId="43" arrivalOffset="01:24:00" departureOffset="01:26:00" />
+                <stop refId="44" arrivalOffset="01:26:00" departureOffset="01:28:00" />
+                <stop refId="45" arrivalOffset="01:28:00" departureOffset="01:30:00" />
+                <stop refId="46" arrivalOffset="01:30:00" departureOffset="01:32:00" />
+                <stop refId="47" arrivalOffset="01:32:00" departureOffset="01:34:00" />
+                <stop refId="48" arrivalOffset="01:34:00" />
+            </routeProfile>
+            <route>
+                <link refId="3932614660000r"/>
+                <link refId="6542072220002f"/>
+                <link refId="1728767270004f"/>
+                <link refId="1728767270010f"/>
+                <link refId="1728767270011f"/>
+                <link refId="1728767250000f"/>
+                <link refId="985728570000f"/>
+                <link refId="5355390780000f"/>
+                <link refId="4492390670002f"/>
+                <link refId="11634418040000f"/>
+                <link refId="11634418020001f"/>
+                <link refId="11634418020005f"/>
+                <link refId="11634445450004f"/>
+                <link refId="11634445430006f"/>
+                <link refId="11634445440002f"/>
+                <link refId="11634445440005f"/>
+                <link refId="11647485680002f"/>
+                <link refId="11647485680003f"/>
+                <link refId="5060847970006f"/>
+                <link refId="12477050490000f"/>
+                <link refId="12477050490001f"/>
+                <link refId="12477050490002f"/>
+                <link refId="12477050490003f"/>
+                <link refId="12477050490005f"/>
+                <link refId="12477050490007f"/>
+                <link refId="12477050490008f"/>
+                <link refId="12477050490009f"/>
+                <link refId="12477050490010f"/>
+                <link refId="12477050490011f"/>
+                <link refId="12477050490013f"/>
+                <link refId="12477050490014f"/>
+                <link refId="12477050490015f"/>
+                <link refId="12477050490017f"/>
+                <link refId="12477050490018f"/>
+                <link refId="12477050490019f"/>
+                <link refId="12477050490021f"/>
+                <link refId="12477050490023f"/>
+                <link refId="12477050490025f"/>
+                <link refId="12477050490026f"/>
+                <link refId="12477050490028f"/>
+                <link refId="12477050490030f"/>
+                <link refId="12477050490033f"/>
+                <link refId="12477050490036f"/>
+                <link refId="12477050490038f"/>
+                <link refId="12477050490040f"/>
+                <link refId="12477050490042f"/>
+                <link refId="12477050490043f"/>
+                <link refId="12477050490045f"/>
+                <link refId="12477050490047f"/>
+                <link refId="12477050490049f"/>
+                <link refId="12477050490050f"/>
+                <link refId="6686181690000r"/>
+                <link refId="12477104930006r"/>
+                <link refId="12477104930005r"/>
+                <link refId="12477104910000r"/>
+                <link refId="6613576000001r"/>
+                <link refId="12477104890002f"/>
+                <link refId="12477104890003f"/>
+                <link refId="12477104890007f"/>
+                <link refId="12477104890011f"/>
+                <link refId="5593523360001f"/>
+                <link refId="5593523360002f"/>
+                <link refId="5593523360004f"/>
+                <link refId="5593523360005f"/>
+                <link refId="5593523360007f"/>
+                <link refId="5593523360008f"/>
+                <link refId="11611565690001f"/>
+                <link refId="7565997660044r"/>
+                <link refId="7565997660041r"/>
+                <link refId="7565997660038r"/>
+                <link refId="7565997660037r"/>
+                <link refId="7565997660036r"/>
+                <link refId="7565997660035r"/>
+                <link refId="7565997660033r"/>
+                <link refId="7565997660032r"/>
+                <link refId="7565997660030r"/>
+                <link refId="7565997660029r"/>
+                <link refId="7565997660028r"/>
+                <link refId="7565997660026r"/>
+                <link refId="7565997660024r"/>
+                <link refId="7565997660023r"/>
+                <link refId="7565997660020r"/>
+                <link refId="7565997660019r"/>
+                <link refId="7565997660018r"/>
+                <link refId="7565997660016r"/>
+                <link refId="7565997660015r"/>
+                <link refId="7565997660012r"/>
+                <link refId="7565997660009r"/>
+                <link refId="7565997660005r"/>
+                <link refId="6527972070001f"/>
+                <link refId="6527972070002f"/>
+                <link refId="6527972070003f"/>
+                <link refId="6527972070004f"/>
+                <link refId="6527972070005f"/>
+                <link refId="6527972070007f"/>
+                <link refId="6527972070008f"/>
+                <link refId="6527972070009f"/>
+                <link refId="6527972070010f"/>
+                <link refId="6527972070012f"/>
+                <link refId="6527972070018f"/>
+                <link refId="6527972070019f"/>
+                <link refId="6527972070022f"/>
+                <link refId="6527972070023f"/>
+                <link refId="6527972070025f"/>
+                <link refId="6527972070027f"/>
+                <link refId="6527972070028f"/>
+                <link refId="6527972070030f"/>
+                <link refId="6527972070031f"/>
+                <link refId="6527972070032f"/>
+                <link refId="6527972070034f"/>
+                <link refId="6527972070035f"/>
+                <link refId="6527972070036f"/>
+                <link refId="6527972070037f"/>
+                <link refId="6527972070038f"/>
+                <link refId="10695141320001f"/>
+                <link refId="10695141300002f"/>
+                <link refId="10695141290002f"/>
+                <link refId="11276464830000f"/>
+                <link refId="11276464830002f"/>
+                <link refId="5593553030002f"/>
+                <link refId="5593553030003f"/>
+                <link refId="5593553030004f"/>
+                <link refId="5593553030007f"/>
+                <link refId="5593553030011f"/>
+                <link refId="5593553030017f"/>
+                <link refId="5593553030019f"/>
+                <link refId="5593553030020f"/>
+                <link refId="5593553030021f"/>
+                <link refId="5593553030031f"/>
+                <link refId="5593553030037f"/>
+                <link refId="9289676260000f"/>
+                <link refId="9289676260004f"/>
+                <link refId="9289676260005f"/>
+                <link refId="9289676260007f"/>
+                <link refId="9289676260008f"/>
+                <link refId="373672500000f"/>
+                <link refId="373672500001f"/>
+                <link refId="373672500002f"/>
+                <link refId="373672500003f"/>
+                <link refId="373672500005f"/>
+                <link refId="5284859340000f"/>
+                <link refId="5284859340005f"/>
+                <link refId="5284859130013f"/>
+                <link refId="5284859240000f"/>
+                <link refId="6813069450003f"/>
+                <link refId="6565600150031r"/>
+                <link refId="6565600150029r"/>
+                <link refId="6565600150023r"/>
+                <link refId="6565600150021r"/>
+                <link refId="6565600150017r"/>
+                <link refId="6565600150012r"/>
+                <link refId="6565600150010r"/>
+                <link refId="6565600150006r"/>
+                <link refId="6565600150005r"/>
+                <link refId="6565600150001r"/>
+                <link refId="6535797830000r"/>
+                <link refId="6994943350001f"/>
+                <link refId="6688903620000f"/>
+                <link refId="6688903620001f"/>
+                <link refId="6688903620002f"/>
+                <link refId="6688903620003f"/>
+                <link refId="6688903620004f"/>
+                <link refId="6688903620006f"/>
+                <link refId="6688903620007f"/>
+                <link refId="6688903620009f"/>
+                <link refId="6688903620014f"/>
+                <link refId="6688903620015f"/>
+                <link refId="6688903620017f"/>
+                <link refId="6688903620018f"/>
+                <link refId="6688903620019f"/>
+                <link refId="11612084500000f"/>
+                <link refId="11602476200001f"/>
+                <link refId="11602476200002f"/>
+                <link refId="11602476200003f"/>
+                <link refId="11602476200004f"/>
+                <link refId="11602476200005f"/>
+                <link refId="11602476190000f"/>
+                <link refId="11600499790000f"/>
+                <link refId="11600499790001f"/>
+                <link refId="11600499790003f"/>
+                <link refId="11600499790004f"/>
+                <link refId="11600499790005f"/>
+                <link refId="11600499790009f"/>
+                <link refId="11600282870000f"/>
+                <link refId="11600282870001f"/>
+                <link refId="11600282870002f"/>
+                <link refId="11600282870003f"/>
+                <link refId="11600282870004f"/>
+                <link refId="11600282870007f"/>
+                <link refId="11600282870008f"/>
+                <link refId="11600282870009f"/>
+                <link refId="11600282870010f"/>
+                <link refId="12409243470000f"/>
+                <link refId="12409243470001f"/>
+                <link refId="11599919180005f"/>
+                <link refId="12201798940010f"/>
+                <link refId="11599919210000f"/>
+                <link refId="11599919210005f"/>
+                <link refId="11599919210011f"/>
+                <link refId="11599919210024f"/>
+                <link refId="11995307990013f"/>
+                <link refId="10900070200000f"/>
+                <link refId="10900070200004f"/>
+                <link refId="10900070200006f"/>
+                <link refId="6842101240000f"/>
+                <link refId="6842101240010f"/>
+                <link refId="6842101240012f"/>
+                <link refId="1719930330000f"/>
+                <link refId="371250320000f"/>
+                <link refId="9094819350001f"/>
+                <link refId="5310715470002f"/>
+                <link refId="6434510050001f"/>
+                <link refId="6434510050003f"/>
+                <link refId="8876163600001f"/>
+                <link refId="8876163600004f"/>
+                <link refId="8876163600009f"/>
+                <link refId="8876163600011f"/>
+                <link refId="8876163600014f"/>
+                <link refId="8876163600015f"/>
+                <link refId="8876163600021f"/>
+                <link refId="8876163600025f"/>
+                <link refId="8876163600028f"/>
+                <link refId="8876163600029f"/>
+                <link refId="8876163600030f"/>
+                <link refId="8876163600047f"/>
+                <link refId="12030064120000f"/>
+                <link refId="11244530370000f"/>
+                <link refId="12380991930001f"/>
+                <link refId="12380991930002f"/>
+                <link refId="12380991930009f"/>
+                <link refId="12380991930013f"/>
+                <link refId="12380991930014f"/>
+                <link refId="12380991930025f"/>
+                <link refId="12380991930033f"/>
+                <link refId="12380991930034f"/>
+                <link refId="12380991930036f"/>
+                <link refId="4077481130017f"/>
+                <link refId="4077481130019f"/>
+                <link refId="12110783970001f"/>
+                <link refId="12110783970002f"/>
+                <link refId="12110783970003f"/>
+                <link refId="12110783970004f"/>
+                <link refId="12110783970007f"/>
+                <link refId="12110783970014f"/>
+                <link refId="12110783970017f"/>
+                <link refId="12110783970018f"/>
+                <link refId="12110783970021f"/>
+                <link refId="12110783970023f"/>
+                <link refId="12110783970025f"/>
+                <link refId="12110783970028f"/>
+                <link refId="12110783970029f"/>
+
+            </route>
+            <departures>
+                <departure id="1" departureTime="05:30:00" vehicleRefId="ve_0_bus"/>
+                <departure id="2" departureTime="05:40:00" vehicleRefId="ve_1_bus"/>
+            </departures>
+        </transitRoute>
+    </transitLine>
+</transitSchedule>
